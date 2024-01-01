@@ -94,11 +94,26 @@
             <span>Charts</span></a>
     </li>
 
+    <!-- Nav Item - Event -->
+    <li class="nav-item">
+        <a class="nav-link" href="/admin/events">
+        <i class="fa fa-fw fa-calendar" aria-hidden="true"></i>
+                    <span>Events</span></a>
+    </li>
+
     <!-- Nav Item - Tables -->
     <li class="nav-item">
         <a class="nav-link" href="/admin/tables">
-            <i class="fas fa-fw fa-table"></i>
-            <span>Tables</span></a>
+        <i class="fa fa-fw fa-tasks" aria-hidden="true"></i>
+                    <span>Tables</span></a>
+    </li>
+
+
+     <!-- Nav Item - Users -->
+     <li class="nav-item">
+        <a class="nav-link" href="/admin/users">
+        <i class="fa fa-fw fa-users"></i>
+            <span>Users</span></a>
     </li>
 
 
